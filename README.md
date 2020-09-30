@@ -27,3 +27,5 @@ It is kept in mind that the de-rained result should be indistinguishable from it
  
  Code borrows heavily  from [[Pix2Pix Peceptual Loss](https://github.com/ssajj1212/Pix2Pix-keras)]
  and [[Pix2Pix](https://github.com/hanwen0529/GAN-pix2pix-Keras)]. Thanks for the sharing.
+ 
+ Aloo bhujia.
